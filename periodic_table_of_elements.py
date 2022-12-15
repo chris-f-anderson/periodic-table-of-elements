@@ -60,13 +60,13 @@ for line in elements:
     ELEMENTS[line[0]] = element # Map the atomic number to the element.
     ELEMENTS[line[1]] = element # Map the symbol to the element.
 
-print('Periodic Table of Elements')
+print('Periodic Table of Elements Application - A.S. #53')
 
 print()
 
 while True: # Main program loop.
     # Show table and let the user select an element:
-    print('''            Periodic Table of Elements
+    print('''                      PERIODIC TABLE OF ELEMENTS
       1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18
     1 H                                                          HE
     2 Li Be                                  B   C   N   O   F   Ne
