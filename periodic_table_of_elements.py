@@ -1,4 +1,4 @@
-""" Periodic Table of Elements
+""" Periodic Table of Elements - December 2022
 Displays atomic information for all the elements."""
 
 
